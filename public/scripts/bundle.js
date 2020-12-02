@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=o=>`${o.toUpperCase()}!`;console.log(o("something")),console.log(o("Ivan")),console.log(8),console.log(81)})();
